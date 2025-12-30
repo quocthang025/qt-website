@@ -1,0 +1,16 @@
+@media screen and (max-width: 992px) {
+    .right-part {
+        display: none;
+    }
+    .left-part {
+        width: 100%;
+    }
+}
+@media screen and (min-width: 992px) {
+    .right-part {
+        width: 30%;
+    }
+    .left-part {
+        width: 70%;
+    }
+}
